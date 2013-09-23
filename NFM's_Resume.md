@@ -24,9 +24,9 @@ Not For Me's Resume
 - 1종 면허 보통
 - TOEIC 1회 응시: 825 - 2008.12
 - TEPS 1회 응시: 623 - 2012.06
-- 방송통신위원회 주관 (LBS WEB & APP IDEA 대상 수상)[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0005434845] (2011. 12)
+- 방송통신위원회 주관 [LBS WEB & APP IDEA 대상 수상](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0005434845) (2011. 12)
 - 청년창업사관학교 2기 활동 (2012. 02 ~ 2012. 05)
-- 2013 한국컴퓨터종합학술대회 건설IT융합 부문 (우수발표 논문)[http://www.notforme.kr/jthkhhjwj/wp-content/uploads/2013/02/data-logger-paper.pdf]
+- 2013 한국컴퓨터종합학술대회 건설IT융합 부문 [우수발표 논문](http://www.notforme.kr/jthkhhjwj/wp-content/uploads/2013/02/data-logger-paper.pdf)
 - 한빛미디어 출판사 한빛 리더스 7기 스마트 미디어 그룹 활동 (2013. 09 ~ 현재)
 
 # 논문
@@ -54,6 +54,7 @@ Not For Me's Resume
 - Aptana / 중 / 웹사이트 제작에 활용 경험
 - Git / 중 / 1년째 최근 프로젝트 소스코드 관리
 - Wordpress / 중 / CMS 오픈소스로 커스텀 웹사이트 2곳 제작
+- Jquery / 중 / 레퍼런스 참조하면서 필요한 기능 구현 가능
 - Xcode / 중하 / 아이폰 및 아이패드 앱 개발 및 등록 경험
 - 메이븐 / 중하 / 8시간 교육 이수 및 기본적인 사용
 - 젠킨스 / 중하 / 8시간 교육 이수 및 기본적인 사용
@@ -64,24 +65,24 @@ Not For Me's Resume
 
 ## 최근 프로젝트 소개
 ### [PHP/HTML/CSS] 워드프레스 기반 웹사이트 (2013.06~2013.07)
-#### (하나누리)[http://www.hananuri.org/]
-- (소스코드 리파지토리)[https://github.com/jwj0831/hananuri-theme]
+#### [하나누리](http://www.hananuri.org/)
+- [소스코드](https://github.com/jwj0831/hananuri-theme)
 - 24개 페이지제작
 - KCP 결제 모듈 연동
 - 결제 데이터 DB 보관
 
-#### (토지자유연구소)[http://landliberty.or.kr/]
-- (소스코드 리파지토리)[https://github.com/jwj0831/landliberty-theme]
+#### [토지자유연구소](http://landliberty.or.kr/)
+- [소스코드](https://github.com/jwj0831/landliberty-theme)
 - 22개 페이지 제작
 
 ### [Java]지하역사 예측 모델 Job Manager Module (2013.05~2031.06)
--
+- [소스코드](https://github.com/jwj0831/jobmanager)
 
 ### [C]M2M 기반 데이터로거 (2013.01~2013.04)
-- 
+- [소스코드](https://github.com/jwj0831/m2m-smartlogger)
 
 ### [Objective-C] 착한 가게 (2012.01~2012.02)
--
+- [소스코드](https://github.com/jwj0831/ethicalshop)
 
 
 # 자기소개
