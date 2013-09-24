@@ -41,7 +41,7 @@ Not For Me's Resume
 - C / 중 / 시스템 프로그래밍 및 임베디드 시스템 경험
 - Java / 중 / 코어 자바 개발, 소켓, 스레드 프로그래밍 경험
 - HTML, CSS / 중 / 웹페이지 제작 및 개인 블로그 수정 경험
-- Objective-C / 중하 / LBS기반 앱 개발, 금융관련 아이패드 앱 기초 설계 경험
+- Objective-C / 중하 / LBS기반 앱 개발, 금융관련 아이패드 앱 기초 설계 및 구현 경험
 - javascript / 중하 / 웹페이지 제작 때 jquery와 함께 사용 경험
 - PHP / 하 / 워드프레스 기반 웹사이트 제작 경험
 - Python / 하 / 텍스트로 기본적인 언어 활용
@@ -52,12 +52,12 @@ Not For Me's Resume
 
 ## 개발 툴 및 프레임워크 사용 경험
 - Eclipse / 중 / 자바 및 임베디드 C 개발에 사용
-- Aptana / 중 / 웹사이트 제작에 사용
-- Visual Studio 2010 / 중 / C 기반 프로그램 개발에 사용
+- Aptana Studio / 중 / 웹사이트 제작에 사용
+- Visual Studio 2010 Express / 중 / C 기반 프로그램 개발에 사용
 - Git / 중 / 1년째 최근 프로젝트 소스코드 관리
 - Wordpress / 중 / CMS 오픈소스로 커스텀 웹사이트 2곳 제작
-- Jquery / 중하 / 레퍼런스 참조하면서 필요한 기능 구현 가능
-- Vi, Vim / 중하 / 리눅스 및 시스템 프로그래밍, 간단한 수정 작업 시 자주 사용
+- jQuery / 중하 / 레퍼런스 참조하면서 필요한 기능 구현 가능
+- Vim / 중하 / 리눅스 및 시스템 프로그래밍, 간단한 수정 작업 시 자주 사용
 - Sublim / 중하 / 최근 프로그래밍에 주로 사용하는 에디터
 - Xcode / 중하 / 아이폰 및 아이패드 앱 개발 및 등록 경험
 - 메이븐 / 하 / 8시간 교육 이수 및 기본적인 사용
@@ -82,12 +82,22 @@ Not For Me's Resume
 
 ### [Java]지하역사 예측 모델 Job Manager Module (2013.05~2031.06)
 - [소스코드](https://github.com/jwj0831/jobmanager)
+- 스레드를 활용한 예측 모델 실행 Job 관리 모듈
+- 톰캣에서 웹서비스 시작 시 자동으로 실행되는 모듈
+- 웹 인터페이스를 통해 DB에 저장된 사용자의 요청을 확인하여 Queue에 Job Push하는 스레드
+- Queue의 Job을 순차적으로 Pop시켜 Matlab을 통한 모델 실행에 연동하는 스레드
 
 ### [C]M2M 기반 데이터로거 (2013.01~2013.04)
 - [소스코드](https://github.com/jwj0831/m2m-smartlogger)
+- M2M 모뎀 부팅 시 실행되는 데몬 프로그램
+- 모뎀에 Serial로 연결되는 센서의 ASCII 데이터 파싱 & 분석
+- SKT의 M2M Open API를 활용하여 서버에 데이터 전송 및 로깅
 
-### [Objective-C] 착한 가게 (2012.01~2012.02)
+### [Objective-C] 착한 가게 iPhone App (2012.01~2012.02)
 - [소스코드](https://github.com/jwj0831/ethicalshop)
+- LBS 기반 상점 목록 앱
+- QR코드 오픈소스(ZBarSDK)를 사용하여 상점 방문 인증 기능
+- 백엔드 부분은 클라우드 서비스 활용(StackMob + Amazone S3)
 
 
 # 자기소개서
