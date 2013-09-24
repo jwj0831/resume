@@ -99,5 +99,3 @@ Not For Me's Resume
 - QR코드 오픈소스(ZBarSDK)를 사용하여 상점 방문 인증 기능
 - 백엔드 부분은 클라우드 서비스 활용(StackMob + Amazone S3)
 
-
-# 자기소개서
